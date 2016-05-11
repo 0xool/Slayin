@@ -1,0 +1,17 @@
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/cyrusrefahi/Slayin/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/cyrusrefahi/Slayin/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/UnityEngine.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/UnityEditor.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Mono.Cecil.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.DataContract.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/Mono.Cecil.Mdb.dll

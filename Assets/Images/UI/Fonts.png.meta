@@ -1,0 +1,1461 @@
+fileFormatVersion: 2
+guid: 8bcf65c49de5645fd9b48bc362cbb82f
+timeCreated: 1462347944
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpg_maker___font_for_igm_by_telles0808-d3dxixx_0
+    21300002: rpg_maker___font_for_igm_by_telles0808-d3dxixx_1
+    21300004: rpg_maker___font_for_igm_by_telles0808-d3dxixx_2
+    21300006: rpg_maker___font_for_igm_by_telles0808-d3dxixx_3
+    21300008: rpg_maker___font_for_igm_by_telles0808-d3dxixx_4
+    21300010: rpg_maker___font_for_igm_by_telles0808-d3dxixx_5
+    21300012: rpg_maker___font_for_igm_by_telles0808-d3dxixx_6
+    21300014: rpg_maker___font_for_igm_by_telles0808-d3dxixx_7
+    21300016: rpg_maker___font_for_igm_by_telles0808-d3dxixx_8
+    21300018: rpg_maker___font_for_igm_by_telles0808-d3dxixx_9
+    21300020: rpg_maker___font_for_igm_by_telles0808-d3dxixx_10
+    21300022: rpg_maker___font_for_igm_by_telles0808-d3dxixx_11
+    21300024: rpg_maker___font_for_igm_by_telles0808-d3dxixx_12
+    21300026: rpg_maker___font_for_igm_by_telles0808-d3dxixx_13
+    21300028: rpg_maker___font_for_igm_by_telles0808-d3dxixx_14
+    21300030: rpg_maker___font_for_igm_by_telles0808-d3dxixx_15
+    21300032: rpg_maker___font_for_igm_by_telles0808-d3dxixx_16
+    21300034: rpg_maker___font_for_igm_by_telles0808-d3dxixx_17
+    21300036: rpg_maker___font_for_igm_by_telles0808-d3dxixx_18
+    21300038: rpg_maker___font_for_igm_by_telles0808-d3dxixx_19
+    21300040: rpg_maker___font_for_igm_by_telles0808-d3dxixx_20
+    21300042: rpg_maker___font_for_igm_by_telles0808-d3dxixx_21
+    21300044: rpg_maker___font_for_igm_by_telles0808-d3dxixx_22
+    21300046: rpg_maker___font_for_igm_by_telles0808-d3dxixx_23
+    21300048: rpg_maker___font_for_igm_by_telles0808-d3dxixx_24
+    21300050: rpg_maker___font_for_igm_by_telles0808-d3dxixx_25
+    21300052: rpg_maker___font_for_igm_by_telles0808-d3dxixx_26
+    21300054: rpg_maker___font_for_igm_by_telles0808-d3dxixx_27
+    21300056: rpg_maker___font_for_igm_by_telles0808-d3dxixx_28
+    21300058: rpg_maker___font_for_igm_by_telles0808-d3dxixx_29
+    21300060: rpg_maker___font_for_igm_by_telles0808-d3dxixx_30
+    21300062: rpg_maker___font_for_igm_by_telles0808-d3dxixx_31
+    21300064: rpg_maker___font_for_igm_by_telles0808-d3dxixx_32
+    21300066: rpg_maker___font_for_igm_by_telles0808-d3dxixx_33
+    21300068: rpg_maker___font_for_igm_by_telles0808-d3dxixx_34
+    21300070: rpg_maker___font_for_igm_by_telles0808-d3dxixx_35
+    21300072: rpg_maker___font_for_igm_by_telles0808-d3dxixx_36
+    21300074: rpg_maker___font_for_igm_by_telles0808-d3dxixx_37
+    21300076: rpg_maker___font_for_igm_by_telles0808-d3dxixx_38
+    21300078: rpg_maker___font_for_igm_by_telles0808-d3dxixx_39
+    21300080: rpg_maker___font_for_igm_by_telles0808-d3dxixx_40
+    21300082: rpg_maker___font_for_igm_by_telles0808-d3dxixx_41
+    21300084: rpg_maker___font_for_igm_by_telles0808-d3dxixx_42
+    21300086: rpg_maker___font_for_igm_by_telles0808-d3dxixx_43
+    21300088: rpg_maker___font_for_igm_by_telles0808-d3dxixx_44
+    21300090: rpg_maker___font_for_igm_by_telles0808-d3dxixx_45
+    21300092: rpg_maker___font_for_igm_by_telles0808-d3dxixx_46
+    21300094: rpg_maker___font_for_igm_by_telles0808-d3dxixx_47
+    21300096: rpg_maker___font_for_igm_by_telles0808-d3dxixx_48
+    21300098: rpg_maker___font_for_igm_by_telles0808-d3dxixx_49
+    21300100: rpg_maker___font_for_igm_by_telles0808-d3dxixx_50
+    21300102: rpg_maker___font_for_igm_by_telles0808-d3dxixx_51
+    21300104: rpg_maker___font_for_igm_by_telles0808-d3dxixx_52
+    21300106: rpg_maker___font_for_igm_by_telles0808-d3dxixx_53
+    21300108: rpg_maker___font_for_igm_by_telles0808-d3dxixx_54
+    21300110: rpg_maker___font_for_igm_by_telles0808-d3dxixx_55
+    21300112: rpg_maker___font_for_igm_by_telles0808-d3dxixx_56
+    21300114: rpg_maker___font_for_igm_by_telles0808-d3dxixx_57
+    21300116: rpg_maker___font_for_igm_by_telles0808-d3dxixx_58
+    21300118: rpg_maker___font_for_igm_by_telles0808-d3dxixx_59
+    21300120: rpg_maker___font_for_igm_by_telles0808-d3dxixx_60
+    21300122: rpg_maker___font_for_igm_by_telles0808-d3dxixx_61
+    21300124: rpg_maker___font_for_igm_by_telles0808-d3dxixx_62
+    21300126: rpg_maker___font_for_igm_by_telles0808-d3dxixx_63
+    21300128: rpg_maker___font_for_igm_by_telles0808-d3dxixx_64
+    21300130: rpg_maker___font_for_igm_by_telles0808-d3dxixx_65
+    21300132: rpg_maker___font_for_igm_by_telles0808-d3dxixx_66
+    21300134: rpg_maker___font_for_igm_by_telles0808-d3dxixx_67
+    21300136: rpg_maker___font_for_igm_by_telles0808-d3dxixx_68
+    21300138: rpg_maker___font_for_igm_by_telles0808-d3dxixx_69
+    21300140: rpg_maker___font_for_igm_by_telles0808-d3dxixx_70
+    21300142: rpg_maker___font_for_igm_by_telles0808-d3dxixx_71
+    21300144: rpg_maker___font_for_igm_by_telles0808-d3dxixx_72
+    21300146: rpg_maker___font_for_igm_by_telles0808-d3dxixx_73
+    21300148: rpg_maker___font_for_igm_by_telles0808-d3dxixx_74
+    21300150: rpg_maker___font_for_igm_by_telles0808-d3dxixx_75
+    21300152: rpg_maker___font_for_igm_by_telles0808-d3dxixx_76
+    21300154: rpg_maker___font_for_igm_by_telles0808-d3dxixx_77
+    21300156: rpg_maker___font_for_igm_by_telles0808-d3dxixx_78
+    21300158: rpg_maker___font_for_igm_by_telles0808-d3dxixx_79
+    21300160: rpg_maker___font_for_igm_by_telles0808-d3dxixx_80
+    21300162: rpg_maker___font_for_igm_by_telles0808-d3dxixx_81
+    21300164: rpg_maker___font_for_igm_by_telles0808-d3dxixx_82
+    21300166: rpg_maker___font_for_igm_by_telles0808-d3dxixx_83
+    21300168: rpg_maker___font_for_igm_by_telles0808-d3dxixx_84
+    21300170: rpg_maker___font_for_igm_by_telles0808-d3dxixx_85
+    21300172: rpg_maker___font_for_igm_by_telles0808-d3dxixx_86
+    21300174: rpg_maker___font_for_igm_by_telles0808-d3dxixx_87
+    21300176: rpg_maker___font_for_igm_by_telles0808-d3dxixx_88
+    21300178: rpg_maker___font_for_igm_by_telles0808-d3dxixx_89
+    21300180: rpg_maker___font_for_igm_by_telles0808-d3dxixx_90
+    21300182: rpg_maker___font_for_igm_by_telles0808-d3dxixx_91
+    21300184: rpg_maker___font_for_igm_by_telles0808-d3dxixx_92
+    21300186: rpg_maker___font_for_igm_by_telles0808-d3dxixx_93
+    21300188: rpg_maker___font_for_igm_by_telles0808-d3dxixx_94
+    21300190: rpg_maker___font_for_igm_by_telles0808-d3dxixx_95
+    21300192: rpg_maker___font_for_igm_by_telles0808-d3dxixx_96
+    21300194: rpg_maker___font_for_igm_by_telles0808-d3dxixx_97
+    21300196: rpg_maker___font_for_igm_by_telles0808-d3dxixx_98
+    21300198: rpg_maker___font_for_igm_by_telles0808-d3dxixx_99
+    21300200: rpg_maker___font_for_igm_by_telles0808-d3dxixx_100
+    21300202: rpg_maker___font_for_igm_by_telles0808-d3dxixx_101
+    21300204: rpg_maker___font_for_igm_by_telles0808-d3dxixx_102
+    21300206: rpg_maker___font_for_igm_by_telles0808-d3dxixx_103
+    21300208: rpg_maker___font_for_igm_by_telles0808-d3dxixx_104
+    21300210: rpg_maker___font_for_igm_by_telles0808-d3dxixx_105
+    21300212: rpg_maker___font_for_igm_by_telles0808-d3dxixx_106
+    21300214: rpg_maker___font_for_igm_by_telles0808-d3dxixx_107
+    21300216: Fonts_0
+    21300218: Fonts_1
+    21300220: Fonts_2
+    21300222: Fonts_3
+    21300224: Fonts_4
+    21300226: Fonts_5
+    21300228: Fonts_6
+    21300230: Fonts_7
+    21300232: Fonts_8
+    21300234: Fonts_9
+    21300236: Fonts_10
+    21300238: Fonts_11
+    21300240: Fonts_12
+    21300242: Fonts_13
+    21300244: Fonts_14
+    21300246: Fonts_15
+    21300248: Fonts_16
+    21300250: Fonts_17
+    21300252: Fonts_18
+    21300254: Fonts_19
+    21300256: Fonts_20
+    21300258: Fonts_21
+    21300260: Fonts_22
+    21300262: Fonts_23
+    21300264: Fonts_24
+    21300266: Fonts_25
+    21300268: Fonts_26
+    21300270: Fonts_27
+    21300272: Fonts_28
+    21300274: Fonts_29
+    21300276: Fonts_30
+    21300278: Fonts_31
+    21300280: Fonts_32
+    21300282: Fonts_33
+    21300284: Fonts_34
+    21300286: Fonts_35
+    21300288: Fonts_36
+    21300290: Fonts_37
+    21300292: Fonts_38
+    21300294: Fonts_39
+    21300296: Fonts_40
+    21300298: Fonts_41
+    21300300: Fonts_42
+    21300302: Fonts_43
+    21300304: Fonts_44
+    21300306: Fonts_45
+    21300308: Fonts_46
+    21300310: Fonts_47
+    21300312: Fonts_48
+    21300314: Fonts_49
+    21300316: Fonts_50
+    21300318: Fonts_51
+    21300320: Fonts_52
+    21300322: Fonts_53
+    21300324: Fonts_54
+    21300326: Fonts_55
+    21300328: Fonts_56
+    21300330: Fonts_57
+    21300332: Fonts_58
+    21300334: Fonts_59
+    21300336: Fonts_60
+    21300338: Fonts_61
+    21300340: Fonts_62
+    21300342: Fonts_63
+    21300344: Fonts_64
+    21300346: Fonts_65
+    21300348: Fonts_66
+    21300350: Fonts_67
+    21300352: Fonts_68
+    21300354: Fonts_69
+    21300356: Fonts_70
+    21300358: Fonts_71
+    21300360: Fonts_72
+    21300362: Fonts_73
+    21300364: Fonts_74
+    21300366: Fonts_75
+    21300368: Fonts_76
+    21300370: Fonts_77
+    21300372: Fonts_78
+    21300374: Fonts_79
+    21300376: Fonts_80
+    21300378: Fonts_81
+    21300380: Fonts_82
+    21300382: Fonts_83
+    21300384: Fonts_84
+    21300386: Fonts_85
+    21300388: Fonts_86
+    21300390: Fonts_87
+    21300392: Fonts_88
+    21300394: Fonts_89
+    21300396: Fonts_90
+    21300398: Fonts_91
+    21300400: Fonts_92
+    21300402: Fonts_93
+    21300404: Fonts_94
+    21300406: Fonts_95
+    21300408: Fonts_96
+    21300410: Fonts_97
+    21300412: Fonts_98
+    21300414: Fonts_99
+    21300416: Fonts_100
+    21300418: Fonts_101
+    21300420: Fonts_102
+    21300422: Fonts_103
+    21300424: Fonts_104
+    21300426: Fonts_105
+    21300428: Fonts_106
+    21300430: Fonts_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fonts_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 80
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 70
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 60
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 70
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 60
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 50
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_59
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 30
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_66
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 40
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_81
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 24
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_86
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_91
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_97
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_100
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_101
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_104
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_105
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fonts_107
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
