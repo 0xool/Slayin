@@ -16,7 +16,7 @@ public class Movement : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
-		Inside_Panel = false;
+
 
 	}
 	

@@ -15,3 +15,4 @@
 /Users/cyrusrefahi/Slayin/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/cyrusrefahi/Slayin/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/cyrusrefahi/Slayin/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/cyrusrefahi/Slayin/Temp/bin/Debug/ICSharpCode.SharpZipLib.dll
