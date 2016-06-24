@@ -39,7 +39,7 @@ public class Movement : MonoBehaviour {
 
 		if (Inside_Panel) {
 
-			iTween.MoveTo (this.gameObject, Path_Out.transform.position , Time);
+			iTween.MoveTo (this.gameObject, Path_Out.transform.position , Time + 0.5f);
 
 		} else {
 
